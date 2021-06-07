@@ -13,7 +13,7 @@
 Controller.php
 
 #[
-    Controller('RoutingController')
+    Controller()
 ]
 class RoutingController {
     
